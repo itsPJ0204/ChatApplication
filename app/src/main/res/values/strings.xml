@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChatApplication</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string name="title_activity_chat">ChatActivity</string>
+</resources>
